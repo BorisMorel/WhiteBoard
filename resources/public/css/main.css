@@ -1,0 +1,10 @@
+body {
+    padding-top: 60px;
+}
+#content-wrapper {
+    
+}
+
+canvas {
+    border: 1px solid rgba(0, 0, 0, 0.8);
+}
